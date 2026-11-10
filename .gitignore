@@ -1,0 +1,26 @@
+# Packages (reinstalled from package-selected-packages)
+elpa/
+eln-cache/
+
+# Caches, history, temp files
+auto-save-list/
+backups/
+url/
+ido.last
+projects
+transient/
+recentf
+savehist
+tramp
+network-security.data
+
+# Leftovers and editor/OS clutter
+dotemacs*.el
+startup-errors.txt
+*.bak
+*.bak-*
+*~
+\#*\#
+.#*
+*.elc
+.DS_Store
